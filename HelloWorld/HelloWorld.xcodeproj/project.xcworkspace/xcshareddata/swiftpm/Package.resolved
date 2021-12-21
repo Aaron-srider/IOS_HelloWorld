@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FastLayout",
+        "repositoryURL": "http://git.forgetive.org:3000/xcbosa/FastLayout",
+        "state": {
+          "branch": "main",
+          "revision": "6bb7f1f890be1a501624931b92e669c5680d9886",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
